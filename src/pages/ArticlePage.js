@@ -9,7 +9,9 @@ const ArticlePage = ({match}) => {
 
   if (!article) return <NotFoundPage />
 
-  const otherArticles = articleContent.filter(article => article.name !== name)
+  const otherArticles = articleContent.filter(article => article.name !== name);
+
+  
   return (
     <>
       <hi>{article.title}</hi>   

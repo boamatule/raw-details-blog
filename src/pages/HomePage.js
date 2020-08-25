@@ -3,7 +3,7 @@ import React from 'react';
 const HomePage = () => (
   <>
    
-    <hi>Hello, welcome to my blog!</hi>
+    <h1>Hello, welcome to my blog!</h1>
     <p> 
       The 57-year-old, who is currently in charge of the Netherlands, is set to join the La Liga runners-up this week.
       Speaking on Tuesday night, Bartomeu said: "Koeman is the one we've chosen. If nothing goes wrong he will be the head coach next season."
